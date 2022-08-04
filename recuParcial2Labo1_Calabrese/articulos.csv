@@ -1,0 +1,27 @@
+id_articulo,descripcion,tipo,precioUnitario,cantidad,totalBulto
+50,Pelota,1,250,200,0
+51,Camisa azul hombre,3,860,250,0
+52,Notebook HP,2,450000,60,0
+53,Zapatillas Nike,4,15436,35,0
+54,Bota Esqui,4,38100,25,0
+55,Zapatillas Umbro,4,18665,30,0
+56,Bicicleta MountanBike,1,86580,50,0
+57,Remera deportiva hombre,3,1650,60,0
+58,Tablet Acer,2,45640,30,0
+59,Celular Samsung A30,2,65000,30,0
+60,Pileta Lona 2x2,1,60000,10,0
+61,Bota Leniadora Mujer,4,6800,40,0
+62,Short Banio hombre,3,145.50,25,0
+63,Auriculares Samsung,2,1280.56,120,0
+64,Joggin negro dama,3,450.38,60,0
+65,Roller unisex,1,25645,30,0
+66,Campera Rompeviento unisex,3,3652.60,150,0
+67,Buzo capucha hombre,3,2604,40,0
+68,Xbox 360,2,87600,100,0
+69,SmartWatch,2,67867.60,10,0
+70,Pantalon calza dama,3,600,40,0
+71,Zapatillas Lona,4,2450,40,0
+72,Smart Tv 32 pulgadas,2,145600,60,0
+73,Monopatin,1,12500,25,0
+74,Parlantes usb,2,15600,15,0
+
